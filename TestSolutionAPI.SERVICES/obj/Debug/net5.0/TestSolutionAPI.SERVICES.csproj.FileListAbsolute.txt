@@ -1,0 +1,17 @@
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.SERVICES\bin\Debug\net5.0\TestSolutionAPI.SERVICES.deps.json
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.SERVICES\bin\Debug\net5.0\TestSolutionAPI.SERVICES.dll
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.SERVICES\bin\Debug\net5.0\ref\TestSolutionAPI.SERVICES.dll
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.SERVICES\bin\Debug\net5.0\TestSolutionAPI.SERVICES.pdb
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.SERVICES\bin\Debug\net5.0\TestSolutionAPI.INFRA.dll
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.SERVICES\bin\Debug\net5.0\TestSolutionAPI.MODELS.dll
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.SERVICES\bin\Debug\net5.0\TestSolutionAPI.INFRA.pdb
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.SERVICES\bin\Debug\net5.0\TestSolutionAPI.MODELS.pdb
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.SERVICES\obj\Debug\net5.0\TestSolutionAPI.SERVICES.csprojAssemblyReference.cache
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.SERVICES\obj\Debug\net5.0\TestSolutionAPI.SERVICES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.SERVICES\obj\Debug\net5.0\TestSolutionAPI.SERVICES.AssemblyInfoInputs.cache
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.SERVICES\obj\Debug\net5.0\TestSolutionAPI.SERVICES.AssemblyInfo.cs
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.SERVICES\obj\Debug\net5.0\TestSolutionAPI.SERVICES.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.SERVICES\obj\Debug\net5.0\TestSolutionAPI.SERVICES.csproj.CopyComplete
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.SERVICES\obj\Debug\net5.0\TestSolutionAPI.SERVICES.dll
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.SERVICES\obj\Debug\net5.0\ref\TestSolutionAPI.SERVICES.dll
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.SERVICES\obj\Debug\net5.0\TestSolutionAPI.SERVICES.pdb

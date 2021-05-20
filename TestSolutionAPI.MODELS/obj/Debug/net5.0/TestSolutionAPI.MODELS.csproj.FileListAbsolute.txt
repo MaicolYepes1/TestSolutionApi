@@ -1,0 +1,12 @@
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.MODELS\bin\Debug\net5.0\TestSolutionAPI.MODELS.deps.json
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.MODELS\bin\Debug\net5.0\TestSolutionAPI.MODELS.dll
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.MODELS\bin\Debug\net5.0\ref\TestSolutionAPI.MODELS.dll
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.MODELS\bin\Debug\net5.0\TestSolutionAPI.MODELS.pdb
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.MODELS\obj\Debug\net5.0\TestSolutionAPI.MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.MODELS\obj\Debug\net5.0\TestSolutionAPI.MODELS.AssemblyInfoInputs.cache
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.MODELS\obj\Debug\net5.0\TestSolutionAPI.MODELS.AssemblyInfo.cs
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.MODELS\obj\Debug\net5.0\TestSolutionAPI.MODELS.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.MODELS\obj\Debug\net5.0\TestSolutionAPI.MODELS.dll
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.MODELS\obj\Debug\net5.0\ref\TestSolutionAPI.MODELS.dll
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.MODELS\obj\Debug\net5.0\TestSolutionAPI.MODELS.pdb
+C:\Users\Phoenix\source\repos\TestSolutionAPI\TestSolutionAPI.MODELS\obj\Debug\net5.0\TestSolutionAPI.MODELS.csprojAssemblyReference.cache
